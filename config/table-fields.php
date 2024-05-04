@@ -2,6 +2,7 @@
 
 return [
 
+  
     'inventory_units'  => [
         'name' => [
             'label' => __('inventory.label.name'),
@@ -20,6 +21,10 @@ return [
         ],
         'record_type' => [
             'label' => __('inventory.label.record_type'),
+            'type'  => 'options:MATERIAL|PRODUK'
+        ],
+        'status' => [
+            'label' => __('inventory.label.status'),
             'type'  => 'text'
         ],
        

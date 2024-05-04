@@ -8,6 +8,7 @@ CREATE TABLE inventory_items(
     name VARCHAR(100) NOT NULL,
     unit_id INT NOT NULL,
     record_type VARCHAR(100) NOT NULL,
+    status VARCHAR(100) NOT NULL,
     CONSTRAINT fk_inventory_unit_id FOREIGN KEY (unit_id) REFERENCES inventory_units(id) ON DELETE CASCADE
 );
 
