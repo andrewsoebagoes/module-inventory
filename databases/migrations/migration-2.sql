@@ -1,0 +1,1 @@
+ALTER TABLE inventory_items ADD COLUMN status VARCHAR(100) NOT NULL;
