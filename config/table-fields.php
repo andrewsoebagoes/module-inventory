@@ -25,7 +25,7 @@ return [
         ],
         'status' => [
             'label' => __('inventory.label.status'),
-            'type'  => 'text'
+            'type'  => 'options:Ada|Tidak Ada'
         ],
        
     ],
