@@ -17,8 +17,8 @@ return [
     'inventory_items' => 'Items',
     'inventory_item_logs' => 'Item Logs',
     'inventory_units' => 'Units',
-    'organization_src_id' => 'Organization Src',
-    'organization_dst_id' => 'Organization Dst',
+    'organization_src_id' => 'Asal',
+    'organization_dst_id' => 'Tujuan',
     'stock_report' => 'Laporan Stok'
 
 ];
