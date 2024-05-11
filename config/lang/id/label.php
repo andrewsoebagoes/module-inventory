@@ -19,4 +19,6 @@ return [
     'inventory_units' => 'Units',
     'organization_src_id' => 'Organization Src',
     'organization_dst_id' => 'Organization Dst',
+    'stock_report' => 'Laporan Stok'
+
 ];

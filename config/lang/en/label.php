@@ -16,5 +16,6 @@ return [
     'item' => 'Item',
     'unit' => 'Unit',
     'created_at' => 'Created At',
-    'status'    => 'Status'
+    'status'    => 'Status',
+    'stock_report' => 'Stock Report'
 ];
