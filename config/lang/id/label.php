@@ -19,6 +19,7 @@ return [
     'inventory_units' => 'Units',
     'organization_src_id' => 'Asal',
     'organization_dst_id' => 'Tujuan',
-    'stock_report' => 'Laporan Stok'
-
+    'stock_report' => 'Laporan Stok',
+    'stock_panel' => 'Panel Stok',
+    'barcode' => 'Barcode',
 ];

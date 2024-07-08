@@ -11,6 +11,10 @@ return [
     ],
 
     'inventory_items'  => [
+        'barcode' => [
+            'label' => __('inventory.label.barcode'),
+            'type'  => 'text'
+        ],
         'name' => [
             'label' => __('inventory.label.name'),
             'type'  => 'text'

@@ -17,5 +17,7 @@ return [
     'unit' => 'Unit',
     'created_at' => 'Created At',
     'status'    => 'Status',
-    'stock_report' => 'Stock Report'
+    'stock_report' => 'Stock Report',
+    'stock_panel' => 'Stock Panel',
+    'barcode' => 'Barcode',
 ];
